@@ -5,4 +5,4 @@
 ![1](https://user-images.githubusercontent.com/106312778/183846813-13296b91-1260-43dd-a745-17b36232d532.png)
 
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://www.buymeacoffee.com/drax6055o)
-![images](https://user-images.githubusercontent.com/106312778/184493481-493e865a-c1ab-4da5-b0c0-05f3e59bf15c.png)(https://www.buymeacoffee.com/drax6055o)
+![images](https://www.buymeacoffee.com/drax6055o)
