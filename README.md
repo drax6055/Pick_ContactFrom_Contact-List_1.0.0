@@ -3,6 +3,5 @@
 
 # Preview
 ![1](https://user-images.githubusercontent.com/106312778/183846813-13296b91-1260-43dd-a745-17b36232d532.png)
-![images](https://user-images.githubusercontent.com/106312778/184582650-4b3720be-e2d9-4077-8dd8-05d6865b4fe6.png)
 
-(https://www.buymeacoffee.com/drax6055o)
+[![images](https://user-images.githubusercontent.com/106312778/184582650-4b3720be-e2d9-4077-8dd8-05d6865b4fe6.png)](https://www.buymeacoffee.com/drax6055o)
